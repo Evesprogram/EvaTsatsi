@@ -1,7 +1,6 @@
 
 Full Name: Eva Tsatsi
-Cohort: 2026
-Due Date: 24 February 2026
+
 
  Project Overview
 This project is a responsive portfolio landing page showcasing my skills, projects, and hobbies. The page demonstrates fundamental front-end development concepts including **Flexbox**, **CSS Grid**, and **media queries** for a mobile-first responsive design.
