@@ -12,7 +12,7 @@ eva-portfolio-vanilla/
 ├── js/
 │   └── script.js       # All JavaScript functionality
 ├── assets/
-│   └── eva-photo.jpg   # Your professional photo
+│   └── eva-photo.jpg   # professional photo
 └── README.md           # This file
 ```
 
