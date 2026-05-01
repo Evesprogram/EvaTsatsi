@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Eva Tsatsi - Portfolio Website
  An authentic, learner-focused portfolio showcasing my continuous growth as an aspiring Software Engineer in Cohort 2026.
 
